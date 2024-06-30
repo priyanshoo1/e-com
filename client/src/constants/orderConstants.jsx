@@ -1,0 +1,14 @@
+export const ORDER_REQUEST = "ORDER_REQUEST";
+export const ORDER_SUCCESS = "ORDER_SUCCESS";
+export const ORDER_FAIL = "ORDER_FAIL";
+
+export const MY_ORDERS_REQUEST = "ORDER_REQUEST";
+export const MY_ORDERS_SUCCESS = "ORDER_SUCCESS";
+export const MY_ORDERS_FAIL = "ORDER_FAIL";
+
+export const ORDER_DETAILS_REQUEST = "ORDER_REQUEST";
+export const ORDER_DETAILS_SUCCESS = "ORDER_SUCCESS";
+export const ORDER_DETAILS_FAIL = "ORDER_FAIL";
+
+
+export const CLEAR_ERRORS = "CLEAR_ERRORS";
